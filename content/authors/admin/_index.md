@@ -4,9 +4,8 @@ role: Ph.D. in Computer Science
 avatar_filename: cheng.jpg
 bio: My research focuses on cyber security and machine learning.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Cyber Security
+  - Machine Learning
 social:
   - icon: envelope
     icon_pack: fas
@@ -20,16 +19,16 @@ social:
 organizations: []
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Ph.D. in Computer Science
+      institution: Peking University, Beijing, China
+      year: 2021
+    - course: " M.A. in Pure Mathematics"
+      institution: Peking University, Beijing, China
+      year: 2015
+    - course: B.A. in Pure Mathematics
+      institution: Nankai University, Tianjin, China
+      year: 2011
+email: hbcheng89@gmail.com
 superuser: true
 highlight_name: false
 ---
