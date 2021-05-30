@@ -11,12 +11,12 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
-  - icon: lab
-    icon_pack: far
-    link: http://ics.pku.edu.cn
+  - icon: google-scholar
+    icon_pack: ai
+    link: https://scholar.google.com/citations?user=gTufDBEAAAAJ
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=gTufDBEAAAAJ
+    link: http://ics.pku.edu.cn
 organizations: []
 education:
   courses:
