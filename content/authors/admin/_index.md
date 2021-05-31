@@ -1,7 +1,7 @@
 ---
 title: Haibo Cheng
 role: Ph.D. in Computer Science
-avatar_filename: cheng.png
+avatar_filename: assets/media/cheng.png
 bio: My research focuses on cyber security and machine learning.
 interests:
   - Cyber Security
