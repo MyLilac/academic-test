@@ -4,7 +4,11 @@ title: Improved Probabilistic Context-Free Grammars for Passwords Using Word
 publication_types:
   - "1"
 authors:
-  - Haibo Cheng; Wenting Li; Ping Wang; Kaitai Liang
+  - Haibo Cheng
+  - Zhixiong Zheng
+  - Wenting Li
+  - Ping Wang
+  - Kaitai Liang
 publication: IEEE International Conference on Acoustics, Speech and Signal Processing
 publication_short: ICASSP
 abstract: Probabilistic context-free grammars (PCFGs) have been pro-posed to
