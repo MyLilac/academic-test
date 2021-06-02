@@ -2,6 +2,12 @@
 title: Zipf’s Law in Passwords
 publication_types:
   - "0"
+authors:
+  - Ding Wang
+  - Haibo Cheng
+  - Ping Wang
+  - Xinyi Huang
+  - Gaopeng Jian
 draft: false
 featured: false
 image:

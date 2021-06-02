@@ -3,12 +3,11 @@ title: A Security Analysis of Honeywords
 publication_types:
   - "1"
 authors:
-  - Wang
-  - Ding and Cheng
-  - Haibo and Wang
-  - Ping and Yan
-  - Jeff and Huang
-  - Xinyi
+  - Ding Wang
+  - Haibo Cheng
+  - Ping Wang
+  - Jeff Yan
+  - Xinyi Huang
 publication: NDSS 2018
 abstract: "Proposed by Juels and Rivest at CCS'13, honeywords are decoy
   passwords associated with each user account, and they contribute a promising
